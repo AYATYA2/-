@@ -1,0 +1,16 @@
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.csprojAssemblyReference.cache
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.GeneratedMSBuildEditorConfig.editorconfig
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.AssemblyInfoInputs.cache
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.AssemblyInfo.cs
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.csproj.CoreCompileInputs.cache
+D:\競プロ\tutorial2\bin\Debug\net5.0\tutorial2.exe
+D:\競プロ\tutorial2\bin\Debug\net5.0\tutorial2.deps.json
+D:\競プロ\tutorial2\bin\Debug\net5.0\tutorial2.runtimeconfig.json
+D:\競プロ\tutorial2\bin\Debug\net5.0\tutorial2.runtimeconfig.dev.json
+D:\競プロ\tutorial2\bin\Debug\net5.0\tutorial2.dll
+D:\競プロ\tutorial2\bin\Debug\net5.0\ref\tutorial2.dll
+D:\競プロ\tutorial2\bin\Debug\net5.0\tutorial2.pdb
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.dll
+D:\競プロ\tutorial2\obj\Debug\net5.0\ref\tutorial2.dll
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.pdb
+D:\競プロ\tutorial2\obj\Debug\net5.0\tutorial2.genruntimeconfig.cache
