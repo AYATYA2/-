@@ -2,5 +2,8 @@
 int main(){
     char buf[100];
     fgets(buf,sizeof(buf),stdin);
+    int n=0;
+    sscanf(buf,"%d\n",&n);
+    printf("%d\n",n+5);
     return 0;
 }
