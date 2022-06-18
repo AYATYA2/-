@@ -4,6 +4,7 @@
         "cstdlib": "cpp",
         "algorithm": "cpp",
         "xstring": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "utility": "cpp"
     }
 }
