@@ -6,7 +6,7 @@ using namespace std;
 #include <vector>
 #include <iomanip>
 int main() {
- int n;
+ long long int n;
  cin>>n;
   long long int a[n][n];
   long long int max=0;
@@ -22,13 +22,13 @@ int main() {
     }
   }
   
-  for(int m=0;m<n;m++){
-    for(int l=0;l<n;l++){
-      for(int i=-1;i<=1;i++){
-        for(int j=-1;j<=1;j++){
+  for(long long int m=0;m<n;m++){
+    for(long long int l=0;l<n;l++){
+      for(long long int i=-1;i<=1;i++){
+        for(long long int j=-1;j<=1;j++){
           if(i!=0&&j!=0){
              long long int sum=0;
-             for(int k=0;k<n;k++){
+             for(long long int k=0;k<n;k++){
                 sum*=10;
                 sum+=a[(i*k+m+n)%n][(j*k+l+n)%n];
              }
