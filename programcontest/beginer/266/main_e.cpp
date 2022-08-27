@@ -10,6 +10,7 @@ int main() {
   double a[100];
   a[0]=3.5;
   for(int i=1;i<n;i++){
+    a[i]=0;
     for(int j=1;j<=6;j++){
       if(j<a[i-1]){
         a[i]+=a[i-1]/6.0;
