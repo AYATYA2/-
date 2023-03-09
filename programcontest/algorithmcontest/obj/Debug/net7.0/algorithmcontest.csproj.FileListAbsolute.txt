@@ -1,0 +1,15 @@
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.csproj.AssemblyReference.cache
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.GeneratedMSBuildEditorConfig.editorconfig
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.AssemblyInfoInputs.cache
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.AssemblyInfo.cs
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.csproj.CoreCompileInputs.cache
+D:\競プロ\programcontest\algorithmcontest\bin\Debug\net7.0\algorithmcontest.exe
+D:\競プロ\programcontest\algorithmcontest\bin\Debug\net7.0\algorithmcontest.deps.json
+D:\競プロ\programcontest\algorithmcontest\bin\Debug\net7.0\algorithmcontest.runtimeconfig.json
+D:\競プロ\programcontest\algorithmcontest\bin\Debug\net7.0\algorithmcontest.dll
+D:\競プロ\programcontest\algorithmcontest\bin\Debug\net7.0\algorithmcontest.pdb
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.dll
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\refint\algorithmcontest.dll
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.pdb
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\algorithmcontest.genruntimeconfig.cache
+D:\競プロ\programcontest\algorithmcontest\obj\Debug\net7.0\ref\algorithmcontest.dll
